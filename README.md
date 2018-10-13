@@ -18,3 +18,6 @@ Steamworks 相关资源列表，由于 Steamworks 相关 SDK 都是用 C++ 写�
 ## 在 Java 语言相关游戏引擎中接入 Steamworks
 * [code-disaster/steamworks4j](https://github.com/code-disaster/steamworks4j)
 
+
+## Python 开发的游戏中接入 Steamworks
+* [Gramps/SteamworksPy](https://github.com/Gramps/SteamworksPy) （没有文档，但是测试代码很容易懂！）
