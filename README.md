@@ -9,7 +9,7 @@
 
 
 
-## 在 Unity 中接入 Steamworks
+## 在 Unity 或者 C# 语言相关游戏引擎中接入 Steamworks
 * [rlabrecque/Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)
 
 ## 在 JavaScript 相关游戏引擎中接入 Steamworks
