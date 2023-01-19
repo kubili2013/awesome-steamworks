@@ -11,6 +11,7 @@ Steamworks 相关资源列表，由于 Steamworks 相关 SDK 都是用 C++ 写�
 
 ## 在 Unity 或者 C# 语言相关游戏引擎中接入 Steamworks
 * [rlabrecque/Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)
+* [Facepunch/Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks)(这个更方便使用)
 
 ## 在 JavaScript 相关游戏引擎中接入 Steamworks
 * [greenheartgames/greenworks](https://github.com/greenheartgames/greenworks)
